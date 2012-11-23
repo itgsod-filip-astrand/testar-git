@@ -1,2 +1,4 @@
-Det här är ett projekt där vi testar att jobba med git
+﻿Det här är ett projekt där vi testar att jobba med git
 och Github
+
+Tillägg av både bananer och äppeln 
